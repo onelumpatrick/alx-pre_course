@@ -1,1 +1,1 @@
-My first readme
+I just started learning software enineering
